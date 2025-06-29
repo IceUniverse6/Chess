@@ -1,2 +1,2 @@
 # Chess
-Console chess game with C++
+Two player console chess game with C++
